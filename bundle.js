@@ -53186,11 +53186,11 @@
 					),
 					_react2.default.createElement(
 						'a',
-						{ href: '#', className: 'button', onClick: this.deploy },
+						{ href: '#', className: 'button', style: { width: '49%' }, onClick: this.deploy },
 						_react2.default.createElement(
 							'span',
 							null,
-							_react2.default.createElement('img', { src: 'draghetto.png', alt: 'Drago!' })
+							_react2.default.createElement('img', { src: 'draghetto.png', style: { width: '99%' }, alt: 'Drago!' })
 						)
 					)
 				);
@@ -53359,7 +53359,7 @@
 						_react2.default.createElement(
 							'h4',
 							null,
-							'all dragos'
+							'all dragoos'
 						),
 						_react2.default.createElement(
 							'ul',
